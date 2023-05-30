@@ -1,0 +1,20 @@
+.all{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    background-color:aqua;
+}
+.se{
+font-weight: 600;
+font-size: 20px;
+color:white;
+padding-top:15px;
+padding-bottom:15px;
+padding-left:40px;
+padding-right:40px;
+background-color:blue;
+border-color: #d8d8d8;
+border-width: 3px;
+border-style: solid;
+border-radius:35px;
+}
